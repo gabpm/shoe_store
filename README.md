@@ -1,5 +1,3 @@
-# shoe_store
-
 #Shoe Stores
 
 This app will let users list out local shoe stores and the brands of shoes they carry.
